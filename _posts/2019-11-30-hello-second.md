@@ -32,7 +32,7 @@ tags: jekyll
 
 
 
-My second .md
+My second.md
 
 
 ### So what is Jekyll, exactly?Permalink
